@@ -6,3 +6,7 @@ Collaboratore: _Giuseppe D'Ambrosio_  ([github.com/dambrosiodesigner](http://git
 **Corso di Laurea magistrale in Design**   
 **A/A 2016-17** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
+
+—-----
+
+_work in progress_
