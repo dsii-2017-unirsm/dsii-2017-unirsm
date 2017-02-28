@@ -1,4 +1,4 @@
-# DSII 2016 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
+# DSII 2017 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 
