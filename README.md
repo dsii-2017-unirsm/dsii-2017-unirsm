@@ -40,20 +40,6 @@ Partecipazione. Lapis e carta. Software e hardware opensource (Git, Atom, Proces
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
 
-### Riferimenti
-- _The flow towards Europe_, 2015, Lucify
-- _Immaterials: Light painting WiFi_, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
-- _Monument_, 2006, Caleb Larsen
-
-### Strumenti
-Partecipazione. Lapis e carta. Software e hardware _opensource_ (Git, Vim, Atom, Processing, P5js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (_Bring Your Own Device_). Laboratorio di fotografia.
-
-### _Repository_
-[github.com/dsii-2016-unirsm](https://github.com/dsii-2016-unirsm)
-
-## Modalità esame
-Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
-
 ## Bibliografia
 
 #### essenziale
@@ -96,5 +82,3 @@ Giovedì ore 18:30
 1 Giugno - 9 Giugno **show**
 
 Dettagliato: [syllabus.md](/syllabus.md)
-
-_work in progress_
