@@ -23,7 +23,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 - _Valence_, 1999, Ben Fry [+](http://benfry.com/valence/)
 - _Genome Valence_, 2002, Ben Fry [+](http://benfry.com/genomevalence/)
-- _Tron Legacy_, 2010, JT Nimoy [+](http://jtnimoy.com/blogs/projects/14881671-tron-legacy)
+- _Tron Legacy_, 2010, JT Nimoy/Gmunk [+](http://jtnimoy.com/blogs/projects/14881671-tron-legacy) [+](http://www.inventinginteractive.com/2011/03/02/interview-gmunk/) [+](http://work.gmunk.com/filter/Select/TRON-Solar-Sailor)
 
 ### Lab
 - _Close reading: what is | what does it mean | how it works | what if_
