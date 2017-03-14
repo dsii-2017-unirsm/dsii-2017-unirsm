@@ -50,9 +50,13 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Lab
 - Processing [+](http://www.processing.org)
-  - editor IDE — console — play
+  - editor IDE 
+  - console
+  - play
 - P5js [+](http://www.p5js.org)
-  - editor / Atom [+](https://atom.io/) / Sublime [+](https://www.sublimetext.com/) — ispeziona elemento — ricarica
+  - editor { Atom [+](https://atom.io/) / Sublime [+](https://www.sublimetext.com/) }
+  - ispeziona elemento 
+  - ricarica
 - _sketches_, approccio espressivo
 - commenti, formattazione, estetica della scrittura
 - sintassi/_grammatica della lingua_
