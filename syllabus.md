@@ -41,5 +41,29 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. Git/Github hello
 
 
+## W2
+### La lingua. _A computational approach to sketching ideas._
+
+![The Source, 2004, Greyworld](http://i.imgur.com/1n622Q0.jpg?1) ![The Source, 2004, Greyworld](http://i.imgur.com/kPVYKuO.jpg?1)
+
+- _The Source_, 2004, Greyworld [+](http://greyworld.org/archives/31)
+
+### Lab
+- Processing [+](http://www.processing.org)
+- P5js [+](http://www.p5js.org)
+- _sketches_, approccio espressivo
+- commenti, formattazione, estetica della scrittura
+- sintassi/_grammatica della lingua_
+- _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference) [+](https://p5js.org/reference/)
+- librerie/_estendere la lingua_
+- Open Processing [+](https://www.openprocessing.org/)
+- Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
+- Linguaggi di programmazione _creativa_
+ - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
+ - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
+
+###### letture/progetto W2
+1. lettura tre casi studio di riferimento
+
 ----
 _work in progress_
