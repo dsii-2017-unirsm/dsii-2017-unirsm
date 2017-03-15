@@ -50,20 +50,18 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Lab
 - Processing [+](http://www.processing.org)
-  - editor IDE 
-  - console
-  - play
+  - editor IDE | console | play
 - P5js [+](http://www.p5js.org)
-  - editor { Atom [+](https://atom.io/) / Sublime [+](https://www.sublimetext.com/) }
-  - ispeziona elemento 
-  - ricarica
-- _sketches_, approccio espressivo
-- commenti, formattazione, estetica della scrittura
-- sintassi/_grammatica della lingua_
-- _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference) [+](https://p5js.org/reference/)
-- librerie/_estendere la lingua_
-- Open Processing [+](https://www.openprocessing.org/)
-- Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
+  - editor { Atom [+](https://atom.io/) / Sublime [+](https://www.sublimetext.com/) } | ispeziona elemento | ricarica
+- Explorative programming
+  - _sketches_, approccio espressivo
+  - commenti, formattazione, estetica della scrittura
+  - sintassi/_grammatica della lingua_
+  - _reference_/_dizionario della lingua_ [+](http://www.processing.org/reference) [+](https://p5js.org/reference/)
+  - librerie/_estendere la lingua_
+- Risorse utili
+  - Open Processing [+](https://www.openprocessing.org/)
+  - Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
 - Linguaggi di programmazione _creativa_
   - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
   - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
