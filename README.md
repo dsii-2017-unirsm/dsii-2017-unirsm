@@ -10,7 +10,7 @@ Università della Repubblica di San Marino
 ---
 
 ## Obiettivi
-Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato del linguaggio di programmazione per il design Processing/P5.js, l'introduzione ai linguaggi di programmazione Python e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
+Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato del linguaggio di programmazione per il design Processing/P5.js, l'introduzione ai linguaggi di programmazione Python e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
 
 ## Descrizione del progetto
 
@@ -60,7 +60,7 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 - Maeda, John, _Creative Code: Aesthetics + Computation_, Londra, Thames & Hudson, 2004
 - Tufte, R. Edward, _The Visual Display of Quantitative Information_, second edition, Cheshire: Graphic Press, 2001
 
-## Sitografia
+## Sitografia GINNO
 
 - http://creativeapplications.net  
 - http://processing.org/exhibition  
