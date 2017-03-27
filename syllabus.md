@@ -72,7 +72,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W3
 ### _Openday._
 
-## W4, W5
+## W4
 ### Tre casi studio. _Making visible._
 
 ![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
@@ -85,10 +85,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Close reading/what does it mean_: metodo e approccio
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
-- _10 Print Wall_ [p5/10print/fupete](https://github.com/dsii-2016-unirsm/dsii-2016-unirsm.github.io/tree/master/p5/10print/fupete) 
-
-###### compiti
-1. _10 Print_ un porting in p5js + una variazione significativa
 
 ###### compiti/progetto
 1. due/tre idee di progetto
@@ -97,6 +93,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 1. rilettura tre casi studio di riferimento
 
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
+
 
 ----
 _work in progress_
