@@ -72,7 +72,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W3
 ### _Openday._
 
-## W4
+## W4, W5
 ### Tre casi studio. _Making visible._
 
 ![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
@@ -87,7 +87,11 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
 
 ###### compiti/progetto
-1. due/tre idee di progetto
+1. due idee di progetto
+
+###### compiti/progetti
+1. _10 Print_ | _porting in processing_ + variazioni _significative_
+2. _Parole Tossiche_ | ricerca e idee
 
 ###### letture/progetto
 1. rilettura tre casi studio di riferimento
