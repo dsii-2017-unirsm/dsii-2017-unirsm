@@ -86,14 +86,29 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/)
 
-###### compiti/progetto
-1. due/tre idee di progetto
-
 ###### letture/progetto
 1. rilettura tre casi studio di riferimento
 
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
 
+
+## W5
+### Parole Tossiche. _Making visible._
+
+ ![_Parole Tossiche_ di MCSotgiu/Fupete e DSII2016 ](http://i.imgur.com/Ka9yazf.jpg?2)
+ 
+ _Parole Tossiche_ di MCSotgiu/Fupete e DSII2016 [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/MCSotgiu_dsii-2016_def.pdf) [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/tree/master/MCSotgiu/Making-Visible)
+
+### Lab
+- _Parole Tossiche_ 2.0
+- _10 Print_ | _porting in processing_
+
+###### compiti/progetto
+1. due proposte di progetto
+
+###### compiti/progetti
+1. _10 Print_ | variazioni _significative_
+2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
 
 ----
 _work in progress_
