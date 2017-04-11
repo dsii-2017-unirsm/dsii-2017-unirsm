@@ -100,8 +100,10 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
  _Parole Tossiche_ di MCSotgiu/Fupete e DSII2016 [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/blob/master/0_doc/MCSotgiu_dsii-2016_def.pdf) [+](https://github.com/dsii-2016-unirsm/dsii-2016-archive/tree/master/MCSotgiu/Making-Visible)
 
 ### Lab
+- _I numeri dell'influenza._ Dati, fonti e attendibilità
 - _Parole Tossiche_ 2.0
 - _10 Print_ | _porting in processing_
+
 
 ###### compiti/progetto
 1. due proposte di progetto
@@ -109,6 +111,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compiti/progetti
 1. _10 Print_ | variazioni _significative_
 2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
+3. _Flu_ | I numeri dell'influenza. Quanti morti l'anno?
 
 ----
 _work in progress_
