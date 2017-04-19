@@ -113,5 +113,34 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
 3. _Flu_ | I numeri dell'influenza. Quanti morti l'anno?
 
+
+## W6
+### Making data more human. _+ Arduino & friends._
+
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
+
+- All the names | 9/11 Memorial, 2009, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/all-the-names/)
+- _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
+- Information design studios: The O.C.R. [+](https://ocr.nyc/), Fathom [+](https://fathom.info/) and Accurat [+](http://accurat.it/)
+- _Dear Data_, 2015, Giorgia Lupi & Stefanie Posavec [+](http://www.dear-data.com/)
+
+### Lab
+- _Progetto_, revisione.
+- P5js:
+  - _Oop_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/oop)
+  - _Read from google spreadsheet_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc)
+- Arduino:
+  - _Analog & digital_
+  - _Input_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/tree/master/2017/arduino/processing/input)
+  - _Output_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/tree/master/2017/arduino/processing/output)
+  
+###### compiti/progetto
+1. due proposte di progetto
+
+###### compiti/progetti
+1. _10 Print_ | variazioni _significative_
+2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
+3. _Flu_ | I numeri dell'influenza. Quanti morti l'anno?
+
 ----
 _work in progress_
