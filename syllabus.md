@@ -117,7 +117,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W6
 ### Making data more human. _+ Arduino & friends._
 
-![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/086ew8k.jpg?1)
+![All the names | 9/11 Memorial, 2009, Jer Thorp+](http://i.imgur.com/0l5ArXT.png?1) ![Dear Data, 2015, Giorgia Lupi & Stefanie Posavec](http://i.imgur.com/ajsEvo6.jpg?1)
 
 - All the names | 9/11 Memorial, 2009, Jer Thorp [+](http://blog.blprnt.com/blog/blprnt/all-the-names/)
 - _Make data more human_, Jer Thorp/TED [+](http://www.ted.com/talks/jer_thorp_make_data_more_human)
