@@ -135,12 +135,55 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _Output_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/tree/master/2017/arduino/processing/output)
   
 ###### compiti/progetto
-1. due proposte di progetto
+1. una/due proposte di progetto
 
 ###### compiti/progetti
 1. _10 Print_ | variazioni _significative_
 2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
 3. _Flu_ | I numeri dell'influenza. Quanti morti l'anno?
+
+## W7
+### Esercitazione 1. _Influenza, gdoc e p5js._
+
+#### Esercitazione
+- _gdoc_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc)
++
+- _oop_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/oop)
+=
+- _gdoc+oop+anim_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc%2Boop%2Banim)
+
+###### compiti/progetto
+1. una proposta di progetto rivista e corretta
+
+## W8
+### Lab progetto, revisione a coppie.
+
+###### compiti/progetto
+1. una proposta di progetto rivista e corretta
+
+## W9
+### Esercitazione 2 e referenze. _Giochi senza frontiere._
+
+#### Esercitazione
+- 
+-
+-
+-
+-
+-
+
+###### compiti/progetto
+1. sviluppo analisi, dataset, referenze, blocchi e obiettivi 
+2. approccio a parti del progetto in Processing o P5
+3. analisi problematiche di realizzazione prototipi/tempistiche
+4. documentazione del progetto
+
+## W10
+### Lab progetto, revisione.
+
+
+
+
 
 ----
 _work in progress_
