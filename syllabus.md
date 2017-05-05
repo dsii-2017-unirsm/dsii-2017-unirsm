@@ -145,11 +145,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W7
 ### Esercitazione 1. _Influenza, gdoc e p5js._
 
-#### Esercitazione
+#### Lab
 - _gdoc_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc)
-+
 - _oop_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/oop)
-=
 - _gdoc+oop+anim_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc%2Boop%2Banim)
 
 ###### compiti/progetto
@@ -164,7 +162,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W9
 ### Esercitazione 2 e referenze. _Giochi senza frontiere._
 
-#### Esercitazione
+#### Lab
 - 
 -
 -
