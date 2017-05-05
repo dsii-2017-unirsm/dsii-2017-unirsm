@@ -142,8 +142,10 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 2. _Parole Tossiche_ | idee, ricerche e _concept_ di sviluppo
 3. _Flu_ | I numeri dell'influenza. Quanti morti l'anno?
 
+
+
 ## W7
-### Esercitazione 1. _Influenza, gdoc e p5js._
+### Esercitazione 1/P5js. _The Flu issue._
 
 #### Lab
 - _gdoc_ [+](https://github.com/dsii-2017-unirsm/dsii-2017-unirsm.github.io/tree/master/2017/gdoc)
@@ -153,22 +155,18 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compiti/progetto
 1. una proposta di progetto rivista e corretta
 
+
+
 ## W8
 ### Lab progetto, revisione a coppie.
 
-###### compiti/progetto
-1. una proposta di progetto rivista e corretta
+
 
 ## W9
-### Esercitazione 2 e referenze. _Giochi senza frontiere._
+### Esercitazione 2/Processing. _Giochi senza frontiere._
 
 #### Lab
-- 
--
--
--
--
--
+- _{ soon }_
 
 ###### compiti/progetto
 1. sviluppo analisi, dataset, referenze, blocchi e obiettivi 
@@ -176,8 +174,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 3. analisi problematiche di realizzazione prototipi/tempistiche
 4. documentazione del progetto
 
-## W10
-### Lab progetto, revisione.
 
 
 
