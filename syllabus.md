@@ -189,7 +189,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 #### Lab
 - Librerie GUI
   - Processing
-    - ControlP5
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
   - P5js
     - Beyond the canvas [+](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
     - P5.gui [+](https://github.com/bitcraftlab/p5.gui)
