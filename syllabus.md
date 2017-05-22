@@ -195,7 +195,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
     - P5.gui [+](https://github.com/bitcraftlab/p5.gui)
     - dat.gui [+](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
 - Altre librerie Processing
-  - PDFExport, OBJExport, Sound, Video, Minim, IPCapture, OpenCV, ... [+](https://processing.org/reference/libraries/
+  - PDFExport, OBJExport, Sound, Video, Minim, IPCapture, OpenCV, ... [+](https://processing.org/reference/libraries/)
 
 ----
 _work in progress_
