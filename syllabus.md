@@ -166,7 +166,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Esercitazione 2/Processing. _Giochi senza frontiere._
 
 #### Lab
-- _{ soon }_
+- _{ >>> es. algoritmi del gioco, soon <<< }_
 
 ###### compiti/progetto
 1. sviluppo analisi, dataset, referenze, blocchi e obiettivi 
@@ -175,9 +175,27 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 4. documentazione del progetto
 
 
+## W10
+### Lab progetto, revisione, _milestone_.
 
+## W11, W12
+### Lab progetto, revisione prototipo/i. 
 
+![Captives Series | 2013—2015, Quayola](http://i.imgur.com/isfdJuu.jpg?1) ![Imgur](http://i.imgur.com/tfl7AGe.jpg?1)
 
+- Captives Series | 2013—2015, Quayola [+](http://www.quayola.com/captives-series/)
+- Inverted Birth | 2014, Bill Viola [+](https://www.youtube.com/watch?v=crqN60_Wa-U)
+
+#### Lab
+- Librerie GUI
+  - Processing
+    - ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+  - P5js
+    - Beyond the canvas [+](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+    - P5.gui [+](https://github.com/bitcraftlab/p5.gui)
+    - dat.gui [+](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
+- Altre librerie Processing
+  - PDFExport, OBJExport, Sound, Video, Minim, IPCapture, OpenCV, ... [+](https://processing.org/reference/libraries/)
 
 ----
 _work in progress_
