@@ -166,7 +166,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ### Esercitazione 2/Processing. _Giochi senza frontiere._
 
 #### Lab
-- _{ >>> es. algoritmi del gioco, soon <<< }_
+- esercitazione, giochi senza frontiere [+](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/)
+  - [sketch_001.pde](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/sketch_001.pde)
+  - [sketch_002.pde](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/sketch_002.pde)
+  - [sketch_003.pde](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/sketch_003.pde)
+  - [sketch_004.pde](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/sketch_004.pde)
+  - [sketch_005.pde](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/2017/W9/esercitazione/sketch_005.pde)
 
 ###### compiti/progetto
 1. sviluppo analisi, dataset, referenze, blocchi e obiettivi 
