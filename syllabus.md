@@ -202,5 +202,31 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Altre librerie Processing
   - PDFExport, OBJExport, Sound, Video, Minim, IPCapture, OpenCV, ... [+](https://processing.org/reference/libraries/)
 
+
+## W13
+### Critica collettiva, _milestone_.
+
+#### Progetto
+1. Kijilopo | _Untitled_ [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/Kijilopo/Visible/Gennari_bozza%20di%20progetto.pdf)
+2. Markpieces | Vibes [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/Markpieces/Making_Visible/Libretto_bozza.pdf)
+3. andreanico | Acoustic Earthquakes [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/andreanico/Making%20visible/Doc/LIBRETTO%20BOZZA%201.pdf)
+4. asimon235 | Quicksands [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/asimon235/DOC/Simone.Angelini-Quicksands.Bozza.pdf)
+5. ccristiano22 | Broken Words [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/ccristiano22/making-visible/DOC/Libretto_Bozza_Cristiano_Chiti.pdf)
+6. davideonestini | are we human enough? [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/davideonestini/making-visible/davideonestini-humanrights-bozza-01.pdf)
+7. elisabettacelli | Fantasy Mirror [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/elisabettacelli/Making_visible/Elisabetta_Celli_Fantasy_Mirror_bozza1.pdf)
+8. francescopaolini | traccia [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/francescopaolini/making_visible/pdf/traccia_bozza.pdf)
+9. morenaugulini | Fantasmi interattivi [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/morenaugulini/Making-Visible/Bozze%20pdf/Morena-fantasmi-bozza1.pdf)
+10. taniasabatini | Art for Blind People [+ PDF Bozza](https://github.com/dsii-2017-unirsm/dsii-2017-archive/blob/master/taniasabatini/making%20visible/bozza_Sabatini.pdf)
+
+## W14
+### Revisione, _gran finale._
+
+## W15/E
+### Consegna doc. Esami, _milestone._
+
+## W17/E
+### Esami, mostra aperta e pubblicazione.
+
+
 ----
 _work in progress_
