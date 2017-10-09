@@ -9,7 +9,8 @@ Università della Repubblica di San Marino
 
 ---
 
-## Obiettivi
+## Obiettivi
+
 Lo studente acquisisce la capacità di gestire e progettare sistemi relazionali e interattivi legati alla comunicazione e al product design, nonché la capacità di gestire ambienti simulativi del progetto in contesti di media dimensione. Lo studio avanzato del linguaggio di programmazione per il design Processing/P5.js, l'introduzione ai linguaggi di programmazione Python e Javascript, l'utilizzo di tecnologie di prototipazione digitale come Arduino, sono requisiti che lo studente deve acquisire all’interno dell'insegnamento.
 
 ## Descrizione del progetto
